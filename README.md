@@ -1,2 +1,2 @@
-# coursera-assignment-thingy
+# coursera assignment thingy
 super useless assignment for coursera
